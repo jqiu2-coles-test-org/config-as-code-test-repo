@@ -1,0 +1,11 @@
+{
+    "main": {
+      "restrictions": null,
+      "required_status_checks": null,
+      "enforce_admins": null,
+      "required_linear_history": null,
+      "required_pull_request_reviews": {
+        "dismiss_stale_reviews": true
+      }
+    }
+}
